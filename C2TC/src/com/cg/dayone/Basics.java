@@ -12,8 +12,8 @@ public class Basics {
 		System.out.println("a>b="+(a>b));
 		System.out.println("a<b="+(a<b));
 		System.out.println("a==b="+(a==b));
-		System.out.println("Increment="+(a++));
-		System.out.println("Decrement="+(a--));
+		System.out.println("Increment="+(--a));
+		System.out.println("Decrement="+(++b));
 
 	}
 
